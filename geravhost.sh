@@ -2,7 +2,7 @@
 #                                                         #
 # 2011-02-23                                              #
 #                                                         #
-# Adaptado por Lauro Guedes <leowgweb@gmail.com>          #
+# Adaptado por Lauro Guedes <leowgweb.com>                #
 #                                                         #
 # 2015-11-26                                              #
 ###########################################################
