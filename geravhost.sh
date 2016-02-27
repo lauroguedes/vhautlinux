@@ -16,7 +16,7 @@
 echo "Informe o nome do servidor (Ex.: siteexemplo) :"
 read vhost
  
-echo "Informe o caminho do site (Ex.: /var/www/sitexemplo) :"
+echo "Informe o caminho do site, desconsiderando a raiz "/var/www" (Ex.: sitexemplo) :"
 read path
  
 echo "Criando configuração de VHost para o servidor"
